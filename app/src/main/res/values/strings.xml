@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InVision</string>
+    <string name="rfid_nummer">RFID Nummer: </string>
+    <string name="sendButton">Log Activity</string>
+    <string name="errorActivity">Wähle bitte eine Aktivität</string>
+    <string name="errorRFID">Bitte halte den RFID-Chip an das Gerät</string>
+    <string name="messageSuccessful">Activity wurde eingetragen</string>
+</resources>
