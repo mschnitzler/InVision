@@ -15,7 +15,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class InvisionController  {
-    static final String BASE_URL = "Test";
+    static final String BASE_URL = "Test1";
     public Gson gson;
     public Retrofit retrofit;
     public ActivityResource activityResource;
